@@ -1,7 +1,3 @@
-This is your first step.
+The Katacoda Ubuntu Environment is a flexible single node environment. Users are connected to the environment as `root`. This provides them with full flexibility to install additional packages, explore the internals of Linux and experiment with new ideas.
 
-## Task
-
-This is an _example_ of creating a scenario and running a **command**
-
-`echo 'Hello World'`{{execute}}
+The environment also comes with Docker, meaning additional containers can be pulled and access as and when required.
